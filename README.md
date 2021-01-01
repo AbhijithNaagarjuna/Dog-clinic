@@ -1,2 +1,2 @@
 # Dog-clinic
-Pet Clininc
+Pet Clinic
